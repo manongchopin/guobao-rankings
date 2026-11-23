@@ -947,7 +947,7 @@ window.SPORTS_RANKINGS = {
             {
               "rank": 9,
               "name": "泰勒·弗里茨",
-              "en": "Fritz Taylor",
+              "en": "Taylor Fritz",
               "country": "美国",
               "points": "3,300",
               "isNew": true

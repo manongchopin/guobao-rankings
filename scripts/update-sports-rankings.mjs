@@ -82,8 +82,12 @@ function nameCandidates(en) {
 }
 
 function displayName(en) {
-  for (const c of nameCandidates(en)) {
-    if (ZH[c]) return { name: ZH[c], en: c };
+  const cands = nameCandidates(en);
+  const hit = cands.find((c) => ZH[c]);
+  if (hit) {
+    // 统一成「名 姓」写法：tennisexplorer 给的是「姓 名」，直接存会前后不一致
+    const canon = cands[1] && ZH[cands[1]] === ZH[hit] ? cands[1] : hit;
+    return { name: ZH[hit], en: canon };
   }
   missingNames.add(en);
   return { name: String(en).replace(/\s*\(\d{4}\)\s*$/, "") };
