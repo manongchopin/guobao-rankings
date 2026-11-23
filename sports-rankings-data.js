@@ -19,7 +19,7 @@
 
    fetchedAt 是本地抓取时间；榜单"截至"时点写在各自 section.note 里。 */
 window.SPORTS_RANKINGS = {
-  "fetchedAt": "2026-11-23T10:39:41.012Z",
+  "fetchedAt": "2026-11-23T11:08:42.541Z",
   "panels": {
     "snooker": {
       "id": "snooker",
@@ -244,10 +244,7 @@ window.SPORTS_RANKINGS = {
               "rank": 8,
               "name": "丁俊晖",
               "en": "Ding Junhui",
-              "total": "740",
-              "chg": {
-                "total": 2
-              }
+              "total": "740"
             },
             {
               "rank": 9,
@@ -277,10 +274,7 @@ window.SPORTS_RANKINGS = {
               "rank": 13,
               "name": "傅家俊",
               "en": "Marco Fu",
-              "total": "575",
-              "chg": {
-                "total": 3
-              }
+              "total": "575"
             },
             {
               "rank": 14,
@@ -868,97 +862,70 @@ window.SPORTS_RANKINGS = {
               "name": "亚历山大·兹维列夫",
               "en": "Alexander Zverev",
               "country": "德国",
-              "points": "10,350",
-              "chg": {
-                "points": 800
-              }
+              "points": "10,350"
             },
             {
               "rank": 2,
               "name": "扬尼克·辛纳",
               "en": "Jannik Sinner",
               "country": "意大利",
-              "points": "7,950",
-              "chg": {
-                "points": -1500
-              }
+              "points": "7,950"
             },
             {
               "rank": 3,
               "name": "卡洛斯·阿尔卡拉斯",
               "en": "Carlos Alcaraz",
               "country": "西班牙",
-              "points": "7,600",
-              "chg": {
-                "points": 500
-              }
+              "points": "7,600"
             },
             {
               "rank": 4,
               "name": "本·谢尔顿",
               "en": "Ben Shelton",
               "country": "美国",
-              "points": "5,570",
-              "chg": {
-                "points": 400
-              }
+              "points": "5,570"
             },
             {
               "rank": 5,
               "name": "丹尼尔·梅德韦杰夫",
               "en": "Daniil Medvedev",
               "country": "俄罗斯",
-              "points": "4,220",
-              "chg": {
-                "points": 400
-              }
+              "points": "4,220"
             },
             {
               "rank": 6,
               "name": "阿蒂尔·菲斯",
               "en": "Arthur Fils",
               "country": "法国",
-              "points": "3,825",
-              "chg": {
-                "rank": 1,
-                "points": 200
-              }
+              "points": "3,825"
             },
             {
               "rank": 7,
               "name": "弗拉维奥·科博利",
               "en": "Flavio Cobolli",
               "country": "意大利",
-              "points": "3,680",
-              "chg": {
-                "rank": -1
-              }
+              "points": "3,680"
             },
             {
               "rank": 8,
               "name": "弗朗西斯·蒂亚福",
               "en": "Frances Tiafoe",
               "country": "美国",
-              "points": "3,590",
-              "chg": {
-                "points": 200
-              }
+              "points": "3,590"
             },
             {
               "rank": 9,
               "name": "泰勒·弗里茨",
               "en": "Taylor Fritz",
               "country": "美国",
-              "points": "3,300",
-              "isNew": true
+              "points": "3,300"
             },
             {
               "rank": 10,
               "name": "拉斐尔·霍达尔",
               "en": "Rafael Jodar",
               "country": "西班牙",
-              "points": "3,234",
-              "isNew": true
+              "points": "3,234"
             }
           ],
           "compared": true
@@ -1006,73 +973,49 @@ window.SPORTS_RANKINGS = {
               "name": "安德烈耶娃",
               "en": "Mirra Andreeva",
               "country": "俄罗斯",
-              "points": "7,806",
-              "chg": {
-                "rank": 1,
-                "points": 1500
-              }
+              "points": "7,806"
             },
             {
               "rank": 3,
               "name": "萨巴伦卡",
               "en": "Aryna Sabalenka",
               "country": "白俄罗斯",
-              "points": "6,685",
-              "chg": {
-                "rank": -1,
-                "points": 200
-              }
+              "points": "6,685"
             },
             {
               "rank": 4,
               "name": "高芙",
               "en": "Coco Gauff",
               "country": "美国",
-              "points": "6,163",
-              "chg": {
-                "points": 400
-              }
+              "points": "6,163"
             },
             {
               "rank": 5,
               "name": "佩古拉",
               "en": "Jessica Pegula",
               "country": "美国",
-              "points": "6,160",
-              "chg": {
-                "points": 400
-              }
+              "points": "6,160"
             },
             {
               "rank": 6,
               "name": "斯维托丽娜",
               "en": "Elina Svitolina",
               "country": "乌克兰",
-              "points": "5,921",
-              "chg": {
-                "points": 800
-              }
+              "points": "5,921"
             },
             {
               "rank": 7,
               "name": "诺斯科娃",
               "en": "Linda Noskova",
               "country": "捷克",
-              "points": "4,743",
-              "chg": {
-                "rank": 1,
-                "points": 400
-              }
+              "points": "4,743"
             },
             {
               "rank": 8,
               "name": "穆霍娃",
               "en": "Karolina Muchova",
               "country": "捷克",
-              "points": "4,665",
-              "chg": {
-                "rank": -1
-              }
+              "points": "4,665"
             },
             {
               "rank": 9,
@@ -1120,87 +1063,52 @@ window.SPORTS_RANKINGS = {
             {
               "rank": 94,
               "name": "布云朝克特",
-              "points": "646",
-              "chg": {
-                "rank": -2
-              }
+              "points": "646"
             },
             {
               "rank": 107,
               "name": "吴易昺",
-              "points": "571",
-              "chg": {
-                "rank": -2
-              }
+              "points": "571"
             },
             {
               "rank": 160,
               "name": "张之臻",
-              "points": "354",
-              "chg": {
-                "rank": -4
-              }
+              "points": "354"
             },
             {
               "rank": 237,
               "name": "商竣程",
-              "points": "242",
-              "chg": {
-                "rank": 15,
-                "points": 22
-              }
+              "points": "242"
             },
             {
               "rank": 267,
               "name": "周意",
-              "points": "214",
-              "chg": {
-                "rank": 12,
-                "points": 18
-              }
+              "points": "214"
             },
             {
               "rank": 285,
               "name": "孙发京",
-              "points": "196",
-              "chg": {
-                "rank": 12,
-                "points": 11
-              }
+              "points": "196"
             },
             {
               "rank": 372,
               "name": "崔杰",
-              "points": "138",
-              "chg": {
-                "rank": -4
-              }
+              "points": "138"
             },
             {
               "rank": 559,
               "name": "特日格乐",
-              "points": "72",
-              "chg": {
-                "rank": 182,
-                "points": 30
-              }
+              "points": "72"
             },
             {
               "rank": 768,
               "name": "张天汇",
-              "points": "38",
-              "chg": {
-                "rank": 36,
-                "points": 3
-              }
+              "points": "38"
             },
             {
               "rank": 850,
               "name": "刘汉屹",
-              "points": "30",
-              "chg": {
-                "rank": 3
-              }
+              "points": "30"
             }
           ],
           "compared": true
@@ -1234,10 +1142,7 @@ window.SPORTS_RANKINGS = {
             {
               "rank": 22,
               "name": "郑钦文",
-              "points": "2,017",
-              "chg": {
-                "rank": -1
-              }
+              "points": "2,017"
             },
             {
               "rank": 38,
@@ -1247,71 +1152,42 @@ window.SPORTS_RANKINGS = {
             {
               "rank": 83,
               "name": "王曦雨",
-              "points": "868",
-              "chg": {
-                "rank": -3
-              }
+              "points": "868"
             },
             {
               "rank": 98,
               "name": "张帅",
-              "points": "792",
-              "chg": {
-                "rank": -3,
-                "points": -10
-              }
+              "points": "792"
             },
             {
               "rank": 144,
               "name": "施晗",
-              "points": "531",
-              "chg": {
-                "rank": 4,
-                "points": 28
-              }
+              "points": "531"
             },
             {
               "rank": 169,
               "name": "袁悦",
-              "points": "449",
-              "chg": {
-                "rank": -1
-              }
+              "points": "449"
             },
             {
               "rank": 205,
               "name": "马烨欣",
-              "points": "380",
-              "chg": {
-                "rank": 2,
-                "points": 4
-              }
+              "points": "380"
             },
             {
               "rank": 207,
               "name": "白卓璇",
-              "points": "374",
-              "chg": {
-                "rank": 22,
-                "points": 41
-              }
+              "points": "374"
             },
             {
               "rank": 213,
               "name": "尤晓迪",
-              "points": "365",
-              "chg": {
-                "rank": 2,
-                "points": 11
-              }
+              "points": "365"
             },
             {
               "rank": 216,
               "name": "郭涵煜",
-              "points": "361",
-              "chg": {
-                "rank": -3
-              }
+              "points": "361"
             }
           ],
           "compared": true
@@ -1350,10 +1226,7 @@ window.SPORTS_RANKINGS = {
             {
               "rank": 2,
               "name": "张帅",
-              "points": "$14,120,022",
-              "chg": {
-                "points": 45000
-              }
+              "points": "$14,120,022"
             },
             {
               "rank": 3,
@@ -1432,10 +1305,7 @@ window.SPORTS_RANKINGS = {
             {
               "rank": 2,
               "name": "张帅",
-              "points": "$2,216,355",
-              "chg": {
-                "points": 45000
-              }
+              "points": "$2,216,355"
             },
             {
               "rank": 3,
@@ -1445,10 +1315,7 @@ window.SPORTS_RANKINGS = {
             {
               "rank": 4,
               "name": "郭涵煜",
-              "points": "$1,134,751",
-              "chg": {
-                "points": 95000
-              }
+              "points": "$1,134,751"
             },
             {
               "rank": 5,
@@ -1478,10 +1345,7 @@ window.SPORTS_RANKINGS = {
             {
               "rank": 10,
               "name": "白卓璇",
-              "points": "$239,698",
-              "chg": {
-                "points": 2683
-              }
+              "points": "$239,698"
             }
           ],
           "compared": true
