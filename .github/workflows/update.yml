@@ -2,7 +2,9 @@ name: Update Rankings
 
 on:
   schedule:
-    - cron: "0 0 * * 1"   # 北京时间 每周一 08:00
+    # 每天 08:00（北京时间）；官方榜单可能延迟到周一晚间甚至周二，
+    # 每天抓取一次，由 rankings-updater 的 daily check 决定是否发布。
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:

@@ -7,7 +7,7 @@
 
 ## 它做什么
 
-每周一北京时间 08:00，GitHub Actions 会：
+每天北京时间 08:00，GitHub Actions 会：
 
 1. 抓取 11 张榜单（斯诺克 5 张、网球 6 张）
 2. 解析 WTA 官方发布的两份奖金 PDF
@@ -43,6 +43,11 @@
 ## 手动运行
 
 Actions 页面 → Update Rankings → Run workflow。
+
+## 和网站的关系
+
+`rankings-updater` 每天 08:30 检查本仓库的 `sports-rankings-data.js`；
+只有 `fetchedAt` 变新才复制到服务器。
 
 ## 怎么到网站上
 
